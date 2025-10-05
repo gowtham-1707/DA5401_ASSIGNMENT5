@@ -51,8 +51,3 @@ pip install numpy matplotlib scikit-learn liac-arff
 - If you encounter errors about missing single-label classes, the notebook handles these cases gracefully.
 - The notebook is fully commented for clarity and reproducibility.
 
----
-
-**Author:** [Your Name]  
-**Course:** DA5401  
-**Assignment:** 5  
